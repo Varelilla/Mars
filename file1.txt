@@ -1,1 +1,2 @@
 password
+A new line
